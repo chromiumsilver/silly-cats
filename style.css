@@ -114,3 +114,47 @@ button {
 .text {
   width: 200px;
 }
+
+.lightgray {
+  background-color: #e5e7eb;
+  padding: 80px 200px;
+}
+
+.quote {
+  color: #1f2937;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.signature {
+  text-align: right;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.blue {
+  background-color: #3882f6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 40px 80px;
+  margin: 40px;
+}
+
+.blue .call {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.blue .subtext {
+  font-size: 16px;
+  color: #e5e7eb;
+}
+
+.blue .signup {
+  border: 2px solid white;
+  text-wrap: nowrap;
+}
