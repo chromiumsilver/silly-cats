@@ -89,6 +89,7 @@ button {
   font-size: 36px;
   font-weight: 800;
   color: #1f2937;
+  margin-bottom: 20px;
 }
 
 .item-list {
@@ -96,8 +97,7 @@ button {
   justify-content: center;
   gap: 40px;
   flex-wrap: wrap;
-  padding: 20px;
-  width: 100%;
+  margin-bottom: 40px;
 }
 .item {
   text-align: center;
